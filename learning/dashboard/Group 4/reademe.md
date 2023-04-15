@@ -1,6 +1,6 @@
 # **POSTMAN**
 
-*I will show how easy it is to use postman as a beginner*
+*I will show how easy it is to use postman as a beginners*
 
 **Just open your application**
 
